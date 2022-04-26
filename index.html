@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400;1,500&display=swap"
+      rel="stylesheet"
+    />
+    <title>Awesome Books</title>
+    <link rel="stylesheet" href="index.css" />
+  </head>
+  <body>
+    <main class="main">
+      <header class="header">
+        <nav class="nav-bar">
+          <a href="#" class="title-nav">Awesome Books</a>
+          <ul class="ul-nav">
+            <li class="nav-menu-item" data-nameitem="books-list">List</li>
+            <li class="nav-menu-item" data-nameitem="add-book">Add new</li>
+            <li class="nav-menu-item" data-nameitem="contact-container">
+              Contact
+            </li>
+          </ul>
+        </nav>
+      </header>
+
+      <div class="date-local"></div>
+
+      <div class="section-con books-list active">
+        <div class="heading">
+          <h2 class="all-awe-title">All Awesome Books</h2>
+        </div>
+        <div id="books-dynamic-container"></div>
+      </div>
+
+      <div class="section-con add-book">
+        <h2 class="h2-title">Add a new book</h2>
+        <form method="post" id="form-add-book">
+          <input type="text" placeholder="Title" id="title-input" required />
+          <input type="text" placeholder="Author" id="author-input" required />
+          <button class="add-btn" type="submit">Add</button>
+        </form>
+      </div>
+
+      <div class="section-con contact-container">
+        <h2 class="h2-title contact-title">Contact Information</h2>
+        <p class="para-contact">
+          Do you have any questions or you just want to say "Hi"? <br />
+          You can reach out to us!
+        </p>
+        <ul class="ul-contact">
+          <li class="li-contact">Our e-mail: solisfenger@gmail.com</li>
+          <li class="li-contact">Our phone-number: 353402986775</li>
+          <li class="li-contact">
+            Our adress: Streetname 22, 84503 City, Country
+          </li>
+        </ul>
+      </div>
+
+      <footer class="footer">
+        <p class="para-footer">Copyright - All rights reserved.</p>
+      </footer>
+    </main>
+    <script type="module" src="index.js"></script>
+  </body>
+</html>
