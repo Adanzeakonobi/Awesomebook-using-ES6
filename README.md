@@ -1,56 +1,45 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Awesomebook-with-ES6
 
 > Description the project.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- CSS
+- ES6
+- CSS
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://Adanzeakonobi.github.io/Awesomebook-using-ES6/)
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
 
+> To get a local copy up and running follow these simple example steps.
 
-To get a local copy up and running follow these simple example steps.
+- Copy this link https://github.com/Adanzeakonobi/Awesomebook-with-ES6.git
 
-### Prerequisites
+- Open your terminal or command line
 
-### Setup
+- Run git clone and paste the link
 
-### Install
+- Open the folder with your code editor
 
-### Usage
-
-### Run tests
-
-### Deployment
+- Create a branch to work on
 
 
 
 ## Authors
 
-👤 **Author1**
+👤 Adaobi Okoye
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@adanzeakonobi](https://github.com/adanzeakonobi)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 

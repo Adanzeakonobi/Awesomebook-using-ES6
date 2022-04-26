@@ -1,0 +1,38 @@
+{
+  "name": "awesomebook-using-es6",
+  "version": "1.0.0",
+  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adanzeakonobi/Awesomebook-using-ES6.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adanzeakonobi/Awesomebook-using-ES6/issues"
+  },
+  "homepage": "https://github.com/Adanzeakonobi/Awesomebook-using-ES6#readme",
+  "dependencies": {
+    "luxon": "^2.3.2"
+  },
+  "devDependencies": {
+    "@babel/plugin-syntax-bigint": "^7.8.3",
+    "@babel/plugin-transform-modules-commonjs": "^7.16.7",
+    "babel-eslint": "^10.1.0",
+    "css-loader": "^6.5.1",
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.25.4",
+    "hint": "^6.1.9",
+    "style-loader": "^3.3.1",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.21.0"
+  }
+}
